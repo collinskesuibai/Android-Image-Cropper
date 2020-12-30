@@ -1,3 +1,4 @@
+include ':kesuibaicrop'
 include ':test'
 include 'cropper'
 include 'sample'
